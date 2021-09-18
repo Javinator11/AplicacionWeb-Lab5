@@ -13,6 +13,14 @@ div.largeImage {
     background-color: #fafafa;
 }
 
+.productLabel{
+    font-weight: bold !important;
+}
+
+.addCartButton{
+    background-color: rgb(117, 199, 117) !important;
+}
+
 .productName {
     font-size: 3em !important;
 }
